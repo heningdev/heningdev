@@ -1,13 +1,15 @@
 ### Olá! Eu sou Hening Pereira 👋
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heningdev&show_icons=true&locale=pt-br" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heningdev&layout=normal"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heningdev" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heningdev&show_icons=true&locale=pt-br&cout_private=true" />
 </a>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
