@@ -10,7 +10,7 @@
 </a>
 
 ## 📄 About me
-💼 I am currently working on a personal project with a real focus on the tracking market.
+💼 I'm currently working on a personal project focused on the web.
 
 🎓 I am completing my first training in Systems Analysis and Development.
 
